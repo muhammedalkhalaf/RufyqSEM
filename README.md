@@ -7,7 +7,7 @@
 ### برنامج عربي متكامل لنمذجة المعادلات البنائية بالمربعات الصغرى الجزئية (PLS‑SEM)
 
 <p>
-<img alt="الإصدار" src="https://img.shields.io/badge/الإصدار-1.2.7-2f96ff" />
+<img alt="الإصدار" src="https://img.shields.io/badge/الإصدار-1.0.0-2f96ff" />
 <img alt="النظام" src="https://img.shields.io/badge/Windows-10%20%2F%2011%20(64--bit)-0969da" />
 <img alt="الواجهة" src="https://img.shields.io/badge/الواجهة-عربية%20RTL-2da44e" />
 <img alt="الترخيص" src="https://img.shields.io/badge/الترخيص-ملكية%20خاصة-cf222e" />
@@ -106,7 +106,7 @@
 
 ## التحميل والتثبيت
 
-1. حمّل أحدث مثبّت من صفحة **[الإصدارات](https://github.com/muhammedalkhalaf/RufyqSEM/releases/latest)**: `RufyqSEM-Setup-1.2.7.exe`.
+1. حمّل أحدث مثبّت من صفحة **[الإصدارات](https://github.com/muhammedalkhalaf/RufyqSEM/releases/latest)**: `RufyqSEM-Setup-1.0.0.exe`.
 2. شغّل المثبّت. لا يحتاج صلاحيات مدير، ويُثبَّت لحسابك.
 3. افتح البرنامج من قائمة ابدأ أو أيقونة سطح المكتب.
 
@@ -117,7 +117,7 @@
 بعد التحميل، قارن بصمة SHA‑256 للملف بالقيمة المنشورة في صفحة الإصدار:
 
 ```powershell
-Get-FileHash .\RufyqSEM-Setup-1.2.7.exe -Algorithm SHA256
+Get-FileHash .\RufyqSEM-Setup-1.0.0.exe -Algorithm SHA256
 ```
 
 إن اختلفت البصمة فالملف ليس النسخة الأصلية — لا تشغّله.
